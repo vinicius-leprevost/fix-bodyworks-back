@@ -8,9 +8,9 @@
   <p align="center">Bodyworks APP</p>
 
 ## Descrição / Description
-<b>pt/br: </b><br>
+<h3><b>pt/br: </b></h3><br>
 O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para build no repositório. <br>
-<b>en/us: </b><br>
+<h3><b>en/us: </b></h3><br>
 The Nest TypeScript framework is used for building in the repository.
 
 ## Tecnologias necessárias / Required Technologies
@@ -51,14 +51,13 @@ $ npm run start
 
 ## Sobre o deploy / About Deploy
 
-<h4><b>pt/br: </b></h4><br>
+<h3><b>pt/br: </b></h3><br>
 Para dar o Deploy, será necessário gerar a imagem docker do projeto back finalizado e realizar o upload para o Docker Hub. Na sequência, na DigitalOcean, atualiza a imagem principal do projeto em deploy para a nova versão da imagem. <br>
 <h3><b>en/us: </b></h3><br>
 To deploy, it will be necessary to generate the Docker image of the completed back-end project and upload it to Docker Hub. Subsequently, on DigitalOcean, update the main image of the project in deployment to the new version of the image.<br><br>
 
 
 ```bash
-
 # Build new image
 $ docker build . -t viniciusleprevost/bodyworks:[version number] (ex: viniciusleprevost/bodyworks:3.0)
 
