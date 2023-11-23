@@ -53,7 +53,7 @@ $ npm run start
 
 <p><b>pt/br: </b></p><br>
 Para dar o Deploy, será necessário gerar a imagem docker do projeto back finalizado e realizar o upload para o Docker Hub. Na sequência, na DigitalOcean, atualiza a imagem principal do projeto em deploy para a nova versão da imagem. <br>
-<b>en/us: </b><br>
+<h4><b>en/us: </b></h4><br>
 To deploy, it will be necessary to generate the Docker image of the completed back-end project and upload it to Docker Hub. Subsequently, on DigitalOcean, update the main image of the project in deployment to the new version of the image.
 
 ```bash
