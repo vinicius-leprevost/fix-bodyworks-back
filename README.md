@@ -8,9 +8,9 @@
   <p align="center">Bodyworks APP</p>
 
 ## Descrição / Description
-pt/br
+<b>pt/br: </b><br>
 O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para build no repositório. <br>
-en/us
+<b>en/us: </b><br>
 The Nest TypeScript framework is used for building in the repository.
 
 ## Instalação / Installation
