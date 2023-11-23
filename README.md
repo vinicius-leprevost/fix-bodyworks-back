@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://cdn.discordapp.com/attachments/706989572965400586/1177304601003835434/logo_1.png?ex=6572055a&is=655f905a&hm=30ed8be85722d378a74f8ef2207a4c9e4b37874a2aa57cd51214cd7b2ffae911&" width="200" alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
@@ -39,10 +39,10 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run dev
 
 # production mode
-$ npm run start:prod
+$ npm run start
 ```
 
 ## Test
