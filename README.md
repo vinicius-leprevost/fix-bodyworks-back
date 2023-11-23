@@ -58,6 +58,9 @@ To deploy, it will be necessary to generate the Docker image of the completed ba
 
 
 ```bash
+# Login on Docker
+$ docker login -u viniciusleprevost
+
 # Build new image
 $ docker build . -t viniciusleprevost/bodyworks:[version number] (ex: viniciusleprevost/bodyworks:3.0)
 
