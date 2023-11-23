@@ -14,7 +14,7 @@ O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para 
 The Nest TypeScript framework is used for building in the repository.
 
 ## Tecnologias necessárias / Required Technologies
-<b>*</b> Docker
+<b>*</b> Docker<br>
 <b>*</b> NestJS Framework
 
 ## Instalação / Installation
