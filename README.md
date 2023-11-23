@@ -26,6 +26,18 @@ $ npm install
 ## Iniciar o app / Running the app
 
 ```bash
+# start docker image
+$ docker-compose up -d
+
+# Start Prisma
+$ npx prisma generate
+
+# Update Prisma DB
+$ npx prisma db push
+
+# Open Prisma Interface
+$ npx prisma studio
+
 # development
 $ npm run dev
 
@@ -39,4 +51,12 @@ $ npm run start
 
 ## Sobre o deploy / About Deploy
 
-Você precisará, 
+Para dar o Deploy, será necessário gerar a imagem docker do projeto back finalizado e realizar o upload para o Docker Hub. Na sequência, na DigitalOcean, atualiza a imagem principal do projeto em deploy para a nova versão da imagem.
+
+```bash
+# Build new image
+$ docker build . -t viniciusleprevost/bodyworks:[version number] (ex: viniciusleprevost/bodyworks:3.0)
+
+# Upload to Docker HUB
+$ docker push viniciusleprevost/bodyworks:3.0
+```
