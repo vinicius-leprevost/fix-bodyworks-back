@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Bodyworks APP</p>
+  <h1><p align="center">Bodyworks APP</p></h1>
 
 ## Descrição / Description
 <h3><b>pt/br: </b></h3><br>
