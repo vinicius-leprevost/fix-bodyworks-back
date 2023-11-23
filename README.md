@@ -5,19 +5,21 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Bodyworks API</p>
+  <p align="center">Bodyworks APP</p>
 
-## Description
+## Descrição / Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para build no repositório.
+------------------------------------------------------------------------------------------------------
+The Nest TypeScript framework is used for building in the repository.
 
-## Installation
+## Instalação / Installation
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Iniciar o app / Running the app
 
 ```bash
 # development
