@@ -9,7 +9,7 @@
 
 ## Descrição / Description
 pt/br
-O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para build no repositório.
+O framework [Nest](https://github.com/nestjs/nest) TypeScript é utilizado para build no repositório. <br>
 en/us
 The Nest TypeScript framework is used for building in the repository.
 
